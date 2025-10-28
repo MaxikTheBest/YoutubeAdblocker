@@ -10,7 +10,8 @@ A simple, effective, and completely free YouTube ad blocker.
 
 - Removes all YouTube ads, including front page ads, search ads, in-video ads, shorts ads, and more!  
 - Easy on CPU and memory.  
-- No data collection or cross-origin fetching.  
+- No data collection or cross-origin fetching.
+- Brings back the old Youtube UI.
 - Works on all extension-supported browsers.
 
 ---
@@ -70,6 +71,9 @@ A: You need a browser that supports extensions (like Safari on tablet) and a use
 
 **Q: Why is the code obfuscated?**  
 A: To protect my work and prevent others from copying it. Obfuscation allows the project to safely grow on its main page.
+
+**Q: The Youtube player ui is different?**  
+A: This brings back the old Youtube player UI because it uses the 'embedded' player version, which hasn’t received (and probably won’t receive) the new UI updates that the main player has.
 
 **Q: I don't see the mini-player icon**  
 A: The mini-player is not supported. Instead, it uses the 'picture-in-picture' browser API, which works even better.
